@@ -119,8 +119,8 @@ section .content .text button{
     font-weight: 700;
     color: var(--color-blanco);
     letter-spacing: 2px;
+    cursor: pointer;
 }
-
 section .workin{
     position: relative;
     margin: auto;
@@ -153,6 +153,7 @@ section img .wave{
     justify-content: space-between;
     align-items: flex-end;
     bottom: 2em;
+    z-index: 99999
 }
 .svg-icon{
     width: 2.5em;
