@@ -163,19 +163,6 @@ section img .wave{
     display: none;
 }
 
-@media (min-width:800px){
-    section .content h1{
-        position: absolute;
-        top: 0;
-        left: 0;
-        text-align: center;
-        display: flex;
-        justify-content: center;
-        width: 100%;
-        margin: auto;
-    }
-}
-
 @media (max-width:768px){
     section .content{
         position: relative;
